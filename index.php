@@ -14,7 +14,7 @@
 /**
  * Root directory of Drupal installation.
  */
-echo "hello1";exit;
+echo "hello2";exit;
 define('DRUPAL_ROOT', getcwd());
 
 require_once DRUPAL_ROOT . '/includes/bootstrap.inc';
